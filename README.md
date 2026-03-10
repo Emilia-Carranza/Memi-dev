@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋 I'm Emilia
 
-<!--
-**Memi-dev/Memi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer with a strong interest in UX and UI design.
 
-Here are some ideas to get you started:
+🎓 Technical Degree in Programming  
+💻 Focused on Frontend Development  
+🎨 Currently learning and improving my UX/UI design skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+- Figma
+- Git & GitHub
+
+## Projects
+
+Here you can find some of the projects I’ve been working on while learning and improving my skills.
